@@ -7,8 +7,9 @@ This project is based on the [Microsoft Academy course](https://docs.microsoft.c
 
 In this scene we can test
 
-* **Gaze**
-* **Gestures** (on the spheres, press Button A in Xbox Controller, Space on the keyboard, or the pinch zoom with the real device)
+* **Gaze** - a cursor that mimics the one in the Hololens.
+* **Gestures** - when gazing on the spheres, press _Button A_ in Xbox Controller, _Space Bar_ on the keyboard, or make the _pinch_ with your hand using the real Hololens
+* **Voice input** you can say "Drop" (when gazing over a sphere) or "Reset" any time to reset the scene.
 
 ## Tools
 
