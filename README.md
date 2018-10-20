@@ -13,7 +13,7 @@ In this scene we can test
 
 ## Tools
 
-* Unity 2018.2.6f1
-* [HoloToolKit 2017.4.1.0](https://github.com/Microsoft/MixedRealityToolkit-Unity/releases) (already on this project)
+* Unity 2018.2.11f1
+* [HoloToolKit 2017.4.2.0](https://github.com/Microsoft/MixedRealityToolkit-Unity/releases) (already on this project)
 * Visual Studio 2017
 * [Hololens emulator](https://docs.microsoft.com/en-us/windows/mixed-reality/using-the-hololens-emulator) (or the Hololens device itself)
